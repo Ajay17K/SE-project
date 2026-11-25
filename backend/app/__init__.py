@@ -1,0 +1,1 @@
+# FinReq AI app package
